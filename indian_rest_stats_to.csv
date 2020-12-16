@@ -1,0 +1,51 @@
+Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+Downtown Toronto,"Regent Park, Harbourfront",4af9a379f964a520c91222e3,Bombay Palace,14,7.5,13
+Downtown Toronto,"Regent Park, Harbourfront",52af6dc5498e33995b0bbf03,Sultan Of Samosas,9,6.7,4
+Downtown Toronto,"Queen's Park, Ontario Provincial Government",4bedf8b5e24d20a17b567214,Kothur Indian Cuisine,16,8.0,19
+North York,Don Mills,0,0,0,0.0,0
+East Toronto,The Beaches,4dcd7c6352b1f8915b7e7f7e,Delhi Bistro,6,6.9,3
+East Toronto,The Beaches,0,0,0,0.0,0
+Scarborough,Woburn,0,0,0,0.0,0
+East York,Leaside,504bcf32e4b0ef19b0e2ecf8,Mt Everest Restaurant,8,6.8,6
+Downtown Toronto,Christie,4adb969ef964a520332921e3,Banjara Indian Cuisine,142,8.6,75
+Downtown Toronto,Christie,4b7369d7f964a52049ad2de3,Madras Masala,35,7.8,22
+Scarborough,Cedarbrae,4d6008f829ef236a8832a059,CANBE Foods Inc,22,7.9,8
+Scarborough,Cedarbrae,4c77fc87bd346dcb8c90f0ef,La Sani Grill,12,6.7,12
+East York,Thorncliffe Park,4daf08e66e81e2dffdd4fe40,Iqbal Kebab & Sweet Centre,12,7.5,5
+East York,Thorncliffe Park,507a19e5e4b0602b62f73d11,Faley Restaurant,6,6.7,4
+East York,Thorncliffe Park,4bed9f2fbac3c9b6ad93fee9,Hakka Garden,9,6.3,12
+East York,Thorncliffe Park,0,0,0,0.0,0
+East York,"East Toronto, Broadview North (Old East York)",0,0,0,0.0,0
+Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",50b79b94e4b0a577af25a83f,Indian Roti House,38,7.1,14
+East Toronto,"The Danforth West, Riverdale",4c1d5337eac020a1cb1048c2,Sher-E-Punjab,11,7.1,8
+West Toronto,"Brockton, Parkdale Village, Exhibition Place",4aecbbb0f964a520bcca21e3,Mother India,43,8.2,31
+West Toronto,"Brockton, Parkdale Village, Exhibition Place",4ba6e1f8f964a520537539e3,Om Restaurant,20,7.7,18
+East Toronto,"India Bazaar, The Beaches West",4ae0c7a8f964a520638221e3,Udupi Palace,78,8.3,31
+East Toronto,"India Bazaar, The Beaches West",4afc9816f964a520312422e3,Motimahal,23,8.0,13
+East Toronto,"India Bazaar, The Beaches West",4bac30a2f964a52018ea3ae3,Bombay Chowpatty,7,7.5,5
+East Toronto,"India Bazaar, The Beaches West",4ad9052cf964a520301721e3,Regency Restaurant,6,6.2,4
+East Toronto,"India Bazaar, The Beaches West",4bbcc0efa0a0c9b60ebd1a0f,Haandi 2000,3,6.0,7
+East Toronto,"India Bazaar, The Beaches West",4d8d278a1d06b1f712942a3b,Gautama,15,5.8,15
+East Toronto,"India Bazaar, The Beaches West",0,0,0,0.0,0
+East Toronto,"India Bazaar, The Beaches West",0,0,0,0.0,0
+North York,"Willowdale, Newtonbrook",4b43dde2f964a52099ec25e3,Earth Indian Restaurant,4,6.1,11
+North York,"Bedford Park, Lawrence Manor East",4d796616542ab1f75eb87c41,The Copper Chimney,14,7.3,15
+York,"Runnymede, The Junction North",4b3bd657f964a520377c25e3,Roti Time,5,6.2,11
+Scarborough,"Dorset Park, Wexford Heights, Scarborough Town Centre",5226562611d2cd49d83ef03b,Kairali,9,6.6,9
+Scarborough,"Dorset Park, Wexford Heights, Scarborough Town Centre",4bf96c435317a593a23a017f,Karaikudi Chettinad South Indian Restaurant,27,6.1,23
+West Toronto,"High Park, The Junction South",4b511f6ff964a520994327e3,Curry Twist,20,8.3,17
+Scarborough,"Wexford, Maryvale",4c27cddd9fb5d13a8cab9857,Patna Kebab House,4,8.0,6
+Central Toronto,"The Annex, North Midtown, Yorkville",4c62c59ce1621b8dd0332453,Roti Cuisine of India,39,8.5,19
+Central Toronto,"The Annex, North Midtown, Yorkville",4ad4c060f964a5204af720e3,The Host,32,7.0,14
+Mississauga,Canada Post Gateway Processing Centre,595fb4ab178a2a1a946eec2b,Barbq Tonight,7,6.6,1
+Mississauga,Canada Post Gateway Processing Centre,4bff0c5668c7a5932a1f4044,Zauq,9,6.1,11
+Scarborough,Agincourt,4d570727fb65236a7f600db4,Silver Spoon Pak-Indian Restaurant,11,7.4,9
+Central Toronto,Davisville,5169d445e4b07de190b5c3d6,Marigold Indian Bistro,11,8.0,11
+Central Toronto,Davisville,4b7ccc72f964a520e3a52fe3,Banjara Indian Cuisine,25,7.0,20
+Central Toronto,Davisville,4cc9ae6141e75481dff85d84,Flaming Stove,4,6.8,3
+West Toronto,"Runnymede, Swansea",525e1812498e2c14b4d80b8b,Bukhara indian cuisine,6,7.0,3
+Etobicoke,"New Toronto, Mimico South, Humber Bay Shores",4bc10d44abf49521d773c093,Bombay on the Lake,6,7.1,9
+Scarborough,"Steeles West, L'Amoreaux West",0,0,0,0.0,0
+Downtown Toronto,"St. James Town, Cabbagetown",4c8c21fdf0ce236ab28e15ef,Butter Chicken Factory,17,8.3,11
+Etobicoke,"The Kingsway, Montgomery Road, Old Mill North",4af1c64ff964a5200ae321e3,Chutneys Fine Indian Cuisine,5,6.9,10
+Downtown Toronto,Church and Wellesley,4bedf8b5e24d20a17b567214,Kothur Indian Cuisine,16,8.0,19
